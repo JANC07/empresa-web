@@ -1,5 +1,4 @@
-# DaCodes
-
+# TecnoNova
 ## Descripción
 Sitio web desarrollado como actividad para el manejo de Ramas (Materia Sistemas de Control de Versiones)
 
